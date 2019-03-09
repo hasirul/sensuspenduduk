@@ -9,5 +9,7 @@ cara menjalankan aplikasi
    penduduk
 2.copy file ujian_rani kedalam folder htdocs
 3.jalankan aplikasi dengan membuka web browser dengan alamar localhost/ujian_rani
+username : qodarhasirul@gmail.com
+password : 12345
 
 selesai.
